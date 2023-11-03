@@ -41,6 +41,4 @@
 * 通知表カウント（もらった通知表をカウントできる）
 
 ## 機能の実装方針予定
-Rails 6系　
-React
-Twitter API
+Rails 6系、React、Twitter API
