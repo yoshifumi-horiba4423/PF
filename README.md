@@ -41,4 +41,8 @@
 * 通知表カウント（もらった通知表をカウントできる）
 
 ## 機能の実装方針予定
-Rails 6系、React、Twitter API
+* Rails7系
+* React
+* Twitter API
+* RMagick（UIの修正、通知表のデザイン変更）
+* CarrierWave
