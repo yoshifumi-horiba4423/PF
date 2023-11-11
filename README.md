@@ -48,3 +48,7 @@
 * Twitter API
 * RMagick（UIの修正、通知表のデザイン変更）
 * CarrierWave
+
+
+## 画面遷移図
+* https://www.figma.com/file/6uJTxduD0MPBi2V3sSrwB2/Untitled?type=design&node-id=0%3A1&mode=design&t=iWkTlbJpML7kFbld-1
